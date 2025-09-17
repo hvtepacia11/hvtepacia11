@@ -1,7 +1,7 @@
 Hello there! 👋
 
 
-I'm Henmyr, a computer science student at Negros Oriental State University.
+I'm Henmyr, a Computer Science student at Negros Oriental State University.
 
 I love turning ideas into code and bringing imagination to life through technology.
 
