@@ -9,7 +9,6 @@ Outside of coding, I spend my time watching anime, playing games, and drawing. I
 
 Fun Facts:
 
-⦁	I'm allergic to shrimp
-
-⦁	One Piece is my favorite anime
+  ⦁	I'm allergic to shrimp
+  ⦁	One Piece is my favorite anime
 
